@@ -20,4 +20,3 @@
   
 ### Some Screen Shots of the WebPage that is generated - 
 ![Screenshot](ss1.png)
-![Screenshot](ss2.png)
