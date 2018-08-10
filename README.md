@@ -19,5 +19,5 @@
   Note if no destination path is provided then it would generate the documentation in the directory of the source code.
   
 ### Some Screen Shots of the WebPage that is generated - 
-![Screenshot](Screen Shot 2018-08-10 at 4.43.05 PM.png)
-![Screenshot](Screen Shot 2018-08-10 at 4.43.21 PM.png)
+![Screenshot](ss1.png)
+![Screenshot](ss2.png)
